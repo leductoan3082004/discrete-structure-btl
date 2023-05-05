@@ -1,0 +1,3 @@
+E:/descrete math/cmake-build-debug/CMakeFiles/descrete_math.dir
+E:/descrete math/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/descrete math/cmake-build-debug/CMakeFiles/rebuild_cache.dir
